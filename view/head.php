@@ -12,6 +12,6 @@
 <body>
     
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark justify-content-center">
-        <a class="navbar-brand" href="./view/cadastrar.php">Formulário de Cadastro </a>
-        <a class="navbar-brand" href="./view/listar.php">Listagem dos dados</a>
+        <a class="navbar-brand" href="https://crudcompany.herokuapp.com/view/cadastrar.php">Formulário de Cadastro </a>
+        <a class="navbar-brand" href="https://crudcompany.herokuapp.com/view/listar.php">Listagem dos dados</a>
     </nav>
